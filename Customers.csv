@@ -72,7 +72,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 71,Male,70,91000,55,Healthcare,8,2
 72,Female,47,9000,42,Entertainment,8,2
 73,Female,60,44000,49,Artist,0,5
-74,Female,60,10000,56,Healthcare,8,4
+74,NaN,60,10000,56,Healthcare,8,4
 75,Male,59,89000,47,Artist,0,4
 76,Male,26,49000,54,Homemaker,0,3
 77,Female,45,67000,53,Doctor,0,2
@@ -111,7 +111,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 110,Male,66,13000,48,Healthcare,9,3
 111,Male,65,34000,52,Entertainment,4,4
 112,Female,19,25000,54,Artist,0,1
-113,Female,38,71000,42,Doctor,1,5
+113,NaN,38,71000,42,Doctor,1,5
 114,Male,19,2000,46,Artist,1,1
 115,Female,18,97000,48,Executive,0,3
 116,perosnaVIP,19,51000,50,Executive,8,4
@@ -143,7 +143,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 142,Male,32,66000,93,Artist,0,5
 143,Female,28,62000,40,Doctor,5,3
 144,Female,32,85000,87,Lawyer,1,2
-145,Male,25,71000,12,Engineer,0,5
+145,NaN,25,71000,12,Engineer,0,5
 146,Male,28,26000,97,Marketing,8,5
 147,Male,48,52000,36,Engineer,9,2
 148,Female,32,38000,74,Lawyer,1,1
