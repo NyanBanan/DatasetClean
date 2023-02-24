@@ -1,10 +1,10 @@
 CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work Experience,Family Size
 1,Male,19,15000,39,Healthcare,1,4
-2,Male,21,35000,81,Engineer,3,3
+2,Maleee,21,35000,81,Engineer,3,3
 3,Female,20,86000,6,Engineer,1,1
-4,Female,23,59000,77,Lawyer,0,2
+4,Femasale,23,59000,77,Lawyer,0,2
 5,Female,31,38000,40,Entertainment,2,6
-6,Female,22,58000,76,Artist,0,2
+6,Femadale,22,58000,76,Artist,0,2
 7,Female,35,31000,6,Healthcare,1,3
 8,Female,23,84000,94,Healthcare,1,3
 9,Male,64,97000,3,Engineer,0,3
@@ -53,7 +53,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 52,Male,33,97000,60,Artist,1,2
 53,Female,31,74000,54,Artist,1,1
 54,Male,59,68000,60,Entertainment,0,2
-55,Female,50,18000,45,Marketing,1,1
+55,female,50,18000,45,Marketing,1,1
 56,Male,47,95000,41,Artist,14,2
 57,Female,51,71000,50,Healthcare,9,4
 58,Male,69,8000,46,Doctor,8,2
@@ -88,7 +88,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 87,Female,55,11000,58,Artist,0,3
 88,Female,22,55000,55,Artist,5,2
 89,Female,34,76000,60,Entertainment,7,3
-90,Female,50,56000,46,Doctor,0,2
+90,female,50,56000,46,Doctor,0,2
 91,Female,68,46000,55,Entertainment,0,3
 92,Male,18,36000,41,Artist,1,4
 93,Male,48,88000,49,Artist,1,2
@@ -114,7 +114,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 113,Female,38,71000,42,Doctor,1,5
 114,Male,19,2000,46,Artist,1,1
 115,Female,18,97000,48,Executive,0,3
-116,Female,19,51000,50,Executive,8,4
+116,perosnaVIP,19,51000,50,Executive,8,4
 117,Female,63,9000,43,Lawyer,1,1
 118,Female,49,79000,59,Artist,0,2
 119,Female,51,84000,43,,2,7
@@ -171,7 +171,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 170,Male,32,0,63,Artist,2,2
 171,Male,40,69000,13,Artist,3,5
 172,Male,28,4000,75,Executive,0,2
-173,Male,36,79000,10,Lawyer,0,2
+173,Mse,36,79000,10,Lawyer,0,2
 174,Male,36,99000,92,Artist,5,2
 175,Female,52,20000,13,Lawyer,0,2
 176,Female,30,28000,86,Artist,3,4
@@ -229,7 +229,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 228,Male,76,89000,86,Healthcare,9,4
 229,Male,0,33000,64,Marketing,1,1
 230,Male,15,94000,30,Healthcare,7,2
-231,Female,6,93000,53,Lawyer,8,2
+231,Feaae,6,93000,53,Lawyer,8,2
 232,Male,84,7000,28,Healthcare,0,4
 233,Female,67,18000,88,Lawyer,0,2
 234,Female,78,3000,14,Healthcare,0,4
@@ -257,13 +257,13 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 256,Male,59,85000,49,Lawyer,4,2
 257,Male,12,38000,18,Executive,10,1
 258,Male,79,73000,96,Homemaker,6,7
-259,Female,79,64000,64,Artist,2,3
+259,Fefe,79,64000,64,Artist,2,3
 260,Male,26,26000,60,Executive,6,4
 261,Female,63,47000,16,Artist,2,3
 262,Female,52,35000,85,Doctor,2,6
 263,Female,32,31000,24,Lawyer,2,3
 264,Female,64,13000,38,Engineer,3,4
-265,Female,37,79000,10,Homemaker,1,7
+265,Nan,37,79000,10,Homemaker,1,7
 266,Male,7,82000,39,Entertainment,2,2
 267,Female,40,28000,68,Artist,1,1
 268,Female,78,36000,79,Artist,0,3
@@ -492,7 +492,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 491,Female,59,130511,97,Artist,3,4
 492,Female,54,144502,88,Lawyer,3,1
 493,Male,90,63769,6,Artist,4,2
-494,Female,14,66760,20,Artist,0,4
+494,Fee,14,66760,20,Artist,0,4
 495,Female,34,135115,54,Entertainment,1,7
 496,Female,85,179877,17,Healthcare,12,4
 497,Female,83,93351,65,Doctor,1,1
@@ -542,7 +542,7 @@ CustomerID,Gender,Age,Annual Income ($),Spending Score (1-100),Profession,Work E
 541,Male,56,162921,51,Executive,0,4
 542,Female,26,52234,30,Executive,1,2
 543,Female,56,100271,87,Artist,1,5
-544,Female,6,170266,23,Artist,3,2
+544,Female,-1,170266,23,Artist,3,2
 545,Female,33,88763,1,Entertainment,1,1
 546,Female,89,107359,26,,10,6
 547,Male,99,164781,83,Engineer,0,2
